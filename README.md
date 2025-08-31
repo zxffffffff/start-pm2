@@ -6,4 +6,5 @@
 
 ```shell
 git submodule add https://github.com/zxffffffff/start-python-uv.git
+git submodule add https://github.com/zxffffffff/start-web-platform.git
 ```
