@@ -1,0 +1,6 @@
+[submodule "start-python-uv"]
+	path = start-python-uv
+	url = https://github.com/zxffffffff/start-python-uv.git
+[submodule "start-web-platform"]
+	path = start-web-platform
+	url = https://github.com/zxffffffff/start-web-platform.git
